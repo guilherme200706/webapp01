@@ -3,18 +3,18 @@
 import streamlit as st
 from PIL import Image
 
-image01 = Image.open('panda.jpg')
+image01 = Image.open(''https://www.google.com/url?sa=i&url=https%3A%2F%2Fpalmeirasonline.com%2F2022%2F08%2F09%2Fpalmeiras-e-unico-time-do-brasil-no-top-5-de-ranking-mundial%2F&psig=AOvVaw3r76u5j9NIOLR63eNzLCgG&ust=1666467418353000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMjOq4eJ8voCFQAAAAAdAAAAABAI)
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
-st.title("Bem vindo, EMEF/EJA Edson Luis Lima Souto!")
+st.title("sociedade espotiva palmeiras!")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Cabeçalho")
+st.header("palmeiras")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
-st.subheader("Sub Cabeçalho")
+st.subheader("palestra italia ")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+st.write("Como já deve ter percebido,esse usurio e palmeirense !")
 
 st.subheader("------ **Desenvolvido por: Massaki de O. Igarashi** -----")
 
